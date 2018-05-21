@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CourseApi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Tirthmehta
+Implementation-Vendor-Id: com.tirth.mehta
+Build-Jdk: 1.8.0_112
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/hotel
+Created-By: Maven Integration for Eclipse
+
