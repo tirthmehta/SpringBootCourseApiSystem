@@ -18,11 +18,6 @@ public class CourseService {
 
 	public List<Course> getAllCourses(String id)
 	{
-//		List<Course> courses=new ArrayList<>();
-//		Topic t=this.topicRepository.findById(id).orElse(null);
-//		
-//		this.courseRepository.findAll().forEach(courses::add);
-//		return courses;
 		return this.courseRepository.findByTopicId(id);
 	}
 	
